@@ -4,8 +4,7 @@ This is my first repo
 - Point 1
 - Point 2
 
-__
 
 
-Print("Hellow World")
 
+Print('Hellow World')
