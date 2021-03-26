@@ -1,11 +1,11 @@
 # Demo
 This is my first repo
 
--Point 1
--point 2
+- Point 1
+- Point 2
 
 __
 
 ,,,
-Print ("Hellow World")
+Print("Hellow World")
 ,,,
