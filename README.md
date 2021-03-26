@@ -1,8 +1,8 @@
 # Demo
 This is my first repo
 
-_ Point 1
-_ point 2
+_Point 1
+_point 2
 
 __
 
