@@ -12,4 +12,8 @@
 | [![Accont](https://user-images.githubusercontent.com/78494036/112664736-4c2e6880-8e80-11eb-8521-bd2fc1fe6888.jpg "Accont")](https://user-images.githubusercontent.com/78494036/112664736-4c2e6880-8e80-11eb-8521-bd2fc1fe6888.jpg "Accont")  |  Account Project |
 | Banking Project  |  [![Banking](https://user-images.githubusercontent.com/78494036/112664736-4c2e6880-8e80-11eb-8521-bd2fc1fe6888.jpg "Banking")](https://user-images.githubusercontent.com/78494036/112664736-4c2e6880-8e80-11eb-8521-bd2fc1fe6888.jpg "Banking") |
 | [![Energy](https://user-images.githubusercontent.com/78494036/112664736-4c2e6880-8e80-11eb-8521-bd2fc1fe6888.jpg "Energy")](https://user-images.githubusercontent.com/78494036/112664736-4c2e6880-8e80-11eb-8521-bd2fc1fe6888.jpg "Energy")  |  Energy Project |
-
+```python
+For i in range(0,100,3):
+	print('hello')
+Print('done')
+```
